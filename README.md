@@ -26,7 +26,7 @@ https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/41_Beta/Workstati
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-osb-41_Beta-1.2.x86_64.iso
 
 ## CheckSUM
-Fedora 38: https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/38_Beta/Workstation/x86_64/iso/Fedora-Workstation Fedora Workstation Live X 86 64 37 Beta 1.5 -38_Beta-1.3-x86_64-CHECKSUM
+Fedora 38: https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/38_Beta/Workstation/x86_64/iso/Fedora-Workstation-38_Beta-1.3-x86_64-CHECKSUM
 
 Fedora 39: https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/39_Beta/Workstation/x86_64/iso/Fedora-Workstation-iso-39_Beta-1.1-x86_64-CHECKSUM
 
