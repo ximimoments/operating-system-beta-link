@@ -7,22 +7,22 @@ Here you can see the Beta/Alpha/Build anything of that os
 
 ## /fedora/fedora/linux/releases/test/
 
-## Fedora 38
+## Fedora 38 Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/38_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38_Beta-1.3.iso
 
-## Fedora 39
+## Fedora 39 Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/39_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39_Beta-1.1.iso
 
-## Fedora 40
+## Fedora 40 Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/40_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-40_Beta-1.10.iso
 
-## Fedora 40 osb
+## Fedora 40 osb Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/40_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-osb-40_Beta-1.10.x86_64.iso
 
-## Fedora 41
+## Fedora 41 Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41_Beta-1.2.iso
 
-## Fedora 41 osb
+## Fedora 41 osb Beta
 https://espejito.fder.edu.uy/fedora/fedora/linux/releases/test/41_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-osb-41_Beta-1.2.x86_64.iso
 
 ## CheckSUM
